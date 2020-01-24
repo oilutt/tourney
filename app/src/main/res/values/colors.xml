@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D81B60</color>
+    <color name="colorPrimaryVariant">#AD1457</color>
+    <color name="colorPrimaryHighlight">#80D81B60</color>
+    <color name="colorSecundary">#1bd893</color>
+    <color name="colorSecundaryVariant">#00b359</color>
+    <color name="colorBackground">#121212</color>
+    <color name="colorSurface">#222222</color>
+    <color name="colorOnPrimary">#ECECEC</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorOnBackground">#ECECEC</color>
+    <color name="colorOnSurface">#ECECEC</color>
+    <color name="colorError">#CF6679</color>
+    <color name="editTextBackgroundColor">#DD494949</color>
+
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="green">#4CAF50</color>
+
+    <color name="textColor">#ECECEC</color>
+    <color name="hintColor">#96ECECEC</color>
+    <color name="editTextBackgroundColorLogin">#32ECECEC</color>
+    <color name="colorHighlight">#950740</color>
+    <color name="textColorBlack">#212121</color>
+    <color name="backgroundButtonColor">#80ECECEC</color>
+
+    <color name="facebookColor">#39569C</color>
+    <color name="googleColor">#DB4437</color>
+    <color name="textBtnLoginColor">#80000000</color>
+</resources>

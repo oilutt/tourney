@@ -1,0 +1,5 @@
+include ':utils'
+include ':main'
+include ':commons'
+include ':app'
+rootProject.name = "Tourney"

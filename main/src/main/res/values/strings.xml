@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Tourney</string>
+
+    <string name="facebook_app_id">214095372943848</string>
+    <string name="fb_login_protocol_scheme">fb214095372943848</string>
+
+    <string name="erro">Ops! Algum erro ocorreu.</string>
+    <string name="erro_login">Não foi possível fazer o login.</string>
+    <string name="erro_login_password_user">Usuário e/ou senha inválidos! Tente novamente.</string>
+    <string name="erro_cadastro">Ocorreu um erro ao tentar fazer o cadastro.</string>
+    <string name="erro_save_camp">Ocorreu um erro ao salvar o campeonato.</string>
+    <string name="erro_get_camps">Ocorreu um erro ao buscar campeonatos.</string>
+
+    <string name="slogan">Gerencie seu torneio.\nDa forma que quiser.</string>
+    <string name="entrar">Entrar</string>
+    <string name="continuar_com_facebook">Continuar com Facebook</string>
+    <string name="continuar_com_google">Continuar com Google</string>
+    <string name="cadastrar">Cadastrar</string>
+
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="help_login">Problemas para logar? Clique aqui.</string>
+
+    <string name="esqueci_a_senha">Esqueci minha senha</string>
+    <string name="esqueci_a_senha_info">Entre com o e-mail usado no registro. Nós te mandaremos um e-mail para recuperação da conta.</string>
+    <string name="enviar">Enviar</string>
+    <string name="email_enviado_sucesso">Foi enviado para o seu e-mail um passo a passo para recuperação da conta.</string>
+
+    <string name="criar_conta">Criar conta</string>
+    <string name="nome">Nome</string>
+    <string name="info_senha">De 8 a 20 caracteres.</string>
+    <string name="title_mainfeature">Main Module</string>
+    <string name="criar_campeonato">Criar campeonato</string>
+    <string name="nome_do_campeonato">Nome do campeonato</string>
+    <string name="descricao">Descrição</string>
+    <string name="campeonato">Campeonato</string>
+    <string name="mata_mata">Mata-mata</string>
+    <string name="torneio">Torneio</string>
+    <string name="participantes">Participantes</string>
+    <string name="tipo">Tipo</string>
+    <string name="_8_participantes">8 Participantes</string>
+    <string name="_16_participantes">16 Participantes</string>
+    <string name="_32_participantes">32 Participantes</string>
+    <string name="continuar">Continuar</string>
+    <string name="decidir_depois">Decidir depois</string>
+    <string name="hint_time">Participante %s</string>
+
+    <string name="nenhum_campeonato">Você ainda não possui nenhum campeonato.</string>
+</resources>

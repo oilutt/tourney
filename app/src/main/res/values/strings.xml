@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tourney</string>
+    <string name="title_main">Main Feature</string>
+
+    <string name="facebook_app_id">214095372943848</string>
+    <string name="fb_login_protocol_scheme">fb214095372943848</string>
+</resources>

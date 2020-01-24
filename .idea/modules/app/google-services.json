@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1026218492419",
+    "firebase_url": "https://tourney-266016.firebaseio.com",
+    "project_id": "tourney-266016",
+    "storage_bucket": "tourney-266016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026218492419:android:19c3488e48604ea3060436",
+        "android_client_info": {
+          "package_name": "br.com.tourney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026218492419-vgjlkdph135mc8jskj8ujvj1hjc55hid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.tourney",
+            "certificate_hash": "aad02657da81e0db4202911bd1003d4928759ba9"
+          }
+        },
+        {
+          "client_id": "1026218492419-jalj1eicl17mkqejpvpamrns2op472h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqLUW0u-BKqvMz1LGsHzzDHJz8mQNs0bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026218492419-jalj1eicl17mkqejpvpamrns2op472h9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

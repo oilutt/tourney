@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_create_camp"
+    app:startDestination="@id/createCampFragment">
+
+    <fragment
+        android:id="@+id/createCampFragment"
+        android:name="br.com.main.modules.main.fragments.CreateCampFragment"
+        android:label="CreateCampFragment"
+        tools:layout="@layout/fragment_criar_camp">
+        <action
+            android:id="@+id/action_createCampFragment_to_participantesFragment"
+            app:destination="@id/participantesFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/participantesFragment"
+        android:name="br.com.main.modules.main.fragments.ParticipantesFragment"
+        android:label="ParticipantesFragment"
+        tools:layout="@layout/fragment_participantes"/>
+
+</navigation>
